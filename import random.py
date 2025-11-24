@@ -111,7 +111,7 @@ while True:
         if confirm in ['да', 'д']:
             clear_stats()
         else:
-            print("Clear cancelled")
+            print("Очистка отменена")
     elif choice == '4':
         show_stats()
         print("До следующей игры!")
